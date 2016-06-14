@@ -1,5 +1,16 @@
+
+
+//variables
  // $color: #000;
  //
  // body {
  //   color: $color;
  // }
+
+
+//nesting
+ aside ul {
+   margin: 0; }
+
+   aside a{
+     color:red; }
